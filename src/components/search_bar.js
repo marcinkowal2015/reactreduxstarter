@@ -1,3 +1,9 @@
-/**
- * Created by marcink on 16.10.2016.
- */
+import React, { Component } from 'react';
+
+class SearchBar extends Component {
+    render() {
+        return <input/>
+    }
+}
+
+export default SearchBar;
